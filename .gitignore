@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/sinteticas/*.pdf
+data/reales/
+reports/*.xlsx
